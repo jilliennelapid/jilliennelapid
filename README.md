@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello, I'm Jill !
+
+I am Senior at Florida Polytechnic University, BS in Computer Science.
+
+My interests lie in software development, website design, robotics programming, and AI applications in the medical field--so a little bit of everything!
+
+This GitHub page documents my class assignments and personal projects that I've worked on during my coding journey.
+
+Thank you for visiting !
+
+
 
 <!--
 **jilliennelapid/jilliennelapid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
